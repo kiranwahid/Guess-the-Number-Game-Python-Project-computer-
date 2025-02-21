@@ -1,5 +1,5 @@
-# Guess-the-Number-Game-Python-Project-computer-
-# Guess the Number Game 🎮
+# Guess-the-Number-Game-Python-Project-computer- 🎮
+
 
 ## Description
 Welcome to the **Guess the Number Game**! This is a simple Python-based game where a player tries to guess a randomly chosen number between 1 and a user-specified upper limit. The game will provide feedback whether the guessed number is too low or too high, and the player wins once they guess the correct number!
